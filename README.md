@@ -1,2 +1,1 @@
-# ProphetCraftManageSystem
-ProphetCraft服务器网页管理系统
+ProphetCraft服务器网站管理系统采用ThinkPHP5.0框架开发，
